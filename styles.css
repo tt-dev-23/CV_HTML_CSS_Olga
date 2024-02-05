@@ -38,6 +38,12 @@ a:visited {
 }
 
 @media (max-width: 750px) {
+  .avatar {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 750px) {
   .container {
     padding-left: 20px;
     padding-right: 20px;
